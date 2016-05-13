@@ -1,5 +1,4 @@
 # JSSUserComputerRename
-Changes the OS X Computer Name to have a predetermined prefix followed by the JSS username of the user assigned to that device.
 
 
 Copyright (c) 2016, JAMF Software, LLC.  All rights reserved.
@@ -31,6 +30,8 @@ to the computers object in the JSS.
 
 Before running this script you will also need to set the JSS URL and a prefix (optional)
 for the computer name with end result being PREFIX-USERNAME.
+
+
 
 Written by: Joshua Roskos | Professional Services Engineer | JAMF Software
 
